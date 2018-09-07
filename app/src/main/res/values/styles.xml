@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:editTextColor">@android:color/white</item>
+        <item name="android:textColorHint">#eebfbfbf</item>
+    </style>
+    <style name="Text.Helvetica.Bold">
+        <item name="fontPath">@string/font_helvetica_bold</item>
+    </style>
+    <style name="Text.Helvetica">
+        <item name="fontPath">@string/font_helvetica_regular</item>
+    </style>
+    <style name="Text">
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

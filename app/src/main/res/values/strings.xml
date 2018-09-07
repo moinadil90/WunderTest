@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wunder</string>
+    <string name="font_helvetica_bold" translatable="false">fonts/helvetica_bold.otf</string>
+    <string name="font_helvetica_regular" translatable="false">fonts/helvetica_regular.otf</string>
+    <string name="list_view">List</string>
+    <string name="map_view">Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCzAEjJB0oY_IFcn5PSYlBg0_eYk1rG0T0</string>
+    <string name="address">Address:</string>
+    <string name="engine_type">Engine Type:</string>
+    <string name="exterior">Exterior:</string>
+    <string name="fuel">Fuel:</string>
+    <string name="interior">Interior:</string>
+    <string name="name">Name:</string>
+    <string name="vin">Vin:</string>
+
+</resources>
